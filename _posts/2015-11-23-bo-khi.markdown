@@ -1,0 +1,10 @@
+---
+layout: post
+comments: true
+title:  "Bố khỉ!"
+date:   2015-11-23 14:48:59 +0700
+categories: mylife
+---
+Thử cài nhát jekyll themes của bọn khác vào mà lằng nhằng quá đỗi. Thôi, dùng cái theme mặc định cho lành. Cóa gì thì build từ bản này. Haha
+
+Nay chả thấy ai hú hét việc làm gì. Thành ra mình cứ cố gắng bới việc để làm. Một phần là vui, một phần thích, một phần ko thích rảnh rỗi quá lâu. hehe. Sợ CCC ý. :D
