@@ -17,7 +17,7 @@ Khớ khớ. Thế tóm lại "y cùa hây" là cái quái gì ?? :D. Thời kì
 Ô hô ,nhưng lúc dựng lên nó lại cột thấp cột cao, kiểu như main-content dài vãi chưởng, sidebar ngắn dài khác nhau do content giữa 3 cột nó cũng khác. 
 
 rồi thì dạng list ntn 
-<img src="https://lh3.googleusercontent.com/oXZStsXLH0uJrKYFSE4QdyIQT-zWquvH7kcELv8D5duFg_zCcp1SYAuKikGXnmvALAown03qCI8NNHTnLwiPyNQLCs9IVUDtonfixgWLQSYq8Jl04-gugXezmjmNtRLjRcVgTMe05OD5LnO9HPupSi1-amYTPlLB7bbHGZWwHWpB7HbzviOEVlqxdy99bQP3JxpcF510E7zidx6vpAAAVpR-MtHK5QAeLNQBMinpHY5TBdFhd1gpteK7O0VqJrFFd1c39fqVyG59wNuBtAk9uhCIiz1GcXM7RWRtqohY3m9E9yMgHg0yV6pQZMnE1-jHIcTWlq4avfCv1IUzcXraniJnWdRj1anF8lawDNEe2qJUz3XJsKuXQ292Fhi6V_xPzlZcVq_s_idiSWCivR2PUr8N4IxzIkCQJTfR1joY-FOLNQsCZVxql0OWl-8fFRxTAigu4KkRWU6TTDHC8bbRkYSwcER6jCBb1mg05xnBJPalW5SGvr20-5bqE14lNNLIl-oLzdkiMTIFo6WrOSgCwG49PhFeXvCizVGSU8rO30mkZy10H3HCxAbRztJc14COYyQd=w1171-h489-no" alt="MC list">
+<img src="http://i289.photobucket.com/albums/ll201/tranthanh_album/assets/equal-height_zpsuyzjkjm2.png~original" alt="MC list">
 
 Đến đây bạn thấy rồi đấy .Công việc của mình là chia các list item thành các cột có chiều cao bằng nhau từ trên xuống dưới sao (chiều cao cố định chung, hoặc theo hàng) .
 ##Giải quyết vấn đề
