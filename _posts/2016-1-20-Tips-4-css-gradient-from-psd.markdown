@@ -20,7 +20,9 @@ Thi thoảng vẫn hay làm việc với CSS gradient. Với những cái gradie
 Mặc định thì nó sẽ chạy linear gradient từ trên xuống dưới với 2 phổ màu. Hoặc nếu bạn chả đếm được chính xác thì thôi, cắt xừ lấy một miếng ảnh sau đó repeat nó :D
 
 Nhưng với các dạng gradient phức tạp hơn thì thôi. Bỏ mợ. Không thế nào mà đếm chính xác hoặc cắt ảnh được. Thôi thì dùng Photoshop để convert cho lành
-Yêu cầu: Photoshop CC 2015 +
+
+###Yêu cầu: Photoshop CC 2015 + 
+(tải bản Photoshop CC 2015 portable free tại <a href="https://thepiratebay.se/torrent/12045719/Adobe_Photoshop_CC_2015_FULL_Portable_[TechTools]" alt="Photoshop CC 2015 portable"><strong>đây</strong></a>)
 
 1.Thoạt tiên chọn layer cần lấy css, nhấp chuột phải chọn Copy CSS
 <img src="http://i.imgur.com/f3mixjk.jpg" alt="Copy css" />
